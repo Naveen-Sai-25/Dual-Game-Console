@@ -256,7 +256,7 @@ Dual-Game-Console/
 Clone the repository.
 
 ```bash
-git clone https://github.com/YourUsername/Dual-Game-Console.git
+git clone https://github.com/Naveen-Sai-25/Dual-Game-Console.git
 ```
 
 ---
