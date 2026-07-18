@@ -219,21 +219,16 @@ The Android application communicates using HTTP GET requests.
 Dual-Game-Console/
 │
 ├── Arduino_Code/
-│   └── Dual_Game_Console.ino
+│   └── Car_Dino_Code.ino
 │
 ├── MIT_App/
-│   ├── Dual_Game_Controller.aia
-│   └── Dual_Game_Controller.apk
-│
-├── Images/
-│   ├── HomeScreen.png
-│   ├── CarGame.png
-│   ├── DinoGame.png
-│   └── CircuitDiagram.png
-│
+│   ├── App Link/
+│   └── Car Game
+|   └── Dino Game
+|   └── Home Page
+|
 ├── README.md
-├── LICENSE
-└── Libraries.txt
+└── LICENSE
 ```
 
 ---
