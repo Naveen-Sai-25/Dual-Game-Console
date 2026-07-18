@@ -314,7 +314,7 @@ Start Playing!
 ## Home Screen
 
 ```markdown
-![Home](Images/HomeScreen.png)
+![Home](Images/Home_Screen.png)
 ```
 
 ---
@@ -322,7 +322,7 @@ Start Playing!
 ## Car Game
 
 ```markdown
-![Car Game](Images/CarGame.png)
+![Car Game](Images/01.Car_Game_Main_Page.png)
 ```
 
 ---
@@ -330,7 +330,7 @@ Start Playing!
 ## Dino Game
 
 ```markdown
-![Dino Game](Images/DinoGame.png)
+![Dino Game](Images/01.Dino_Game_Main_Page.png)
 ```
 
 ---
