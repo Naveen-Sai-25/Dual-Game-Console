@@ -309,32 +309,6 @@ Start Playing!
 
 ---
 
-# 📸 Screenshots
-
-## Home Screen
-
-```markdown
-![Home](Images/Home_Screen.png)
-```
-
----
-
-## Car Game
-
-```markdown
-![Car Game](Images/01.Car_Game_Main_Page.png)
-```
-
----
-
-## Dino Game
-
-```markdown
-![Dino Game](Images/01.Dino_Game_Main_Page.png)
-```
-
----
-
 # 🚀 Future Improvements
 
 - Bluetooth Support
